@@ -1,0 +1,25 @@
+Dependencies Resolved
+
+=============================================================================================
+ Package                         Arch          Version                Repository        Size
+=============================================================================================
+Installing:
+ subversion                      x86_64        1.7.14-14.el7          c7-media         1.0 M
+Installing for dependencies:
+ apr                             x86_64        1.4.8-3.el7_4.1        c7-media         103 k
+ apr-util                        x86_64        1.5.2-6.el7            c7-media          92 k
+ gnutls                          x86_64        3.3.29-8.el7           c7-media         680 k
+ libmodman                       x86_64        2.0.1-8.el7            c7-media          28 k
+ libproxy                        x86_64        0.4.11-11.el7          c7-media          64 k
+ neon                            x86_64        0.30.0-3.el7           c7-media         165 k
+ nettle                          x86_64        2.7.1-8.el7            c7-media         327 k
+ pakchois                        x86_64        0.4-10.el7             c7-media          14 k
+ subversion-libs                 x86_64        1.7.14-14.el7          c7-media         922 k
+ trousers                        x86_64        0.3.14-2.el7           c7-media         289 k
+
+Transaction Summary
+=============================================================================================
+Install  1 Package (+10 Dependent packages)
+
+Total download size: 3.6 M
+Installed size: 12 M
