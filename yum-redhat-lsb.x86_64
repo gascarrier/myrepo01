@@ -1,0 +1,136 @@
+Dependencies Resolved
+
+==========================================================================================================================================================
+ Package                                        Arch                     Version                                         Repository                  Size
+==========================================================================================================================================================
+Installing:
+ redhat-lsb                                     x86_64                   4.1-27.el7.centos.1                             c7-media                    25 k
+Installing for dependencies:
+ at                                             x86_64                   3.1.13-24.el7                                   c7-media                    51 k
+ atk                                            x86_64                   2.28.1-1.el7                                    c7-media                   263 k
+ avahi-libs                                     x86_64                   0.6.31-19.el7                                   c7-media                    61 k
+ bc                                             x86_64                   1.06.95-13.el7                                  c7-media                   115 k
+ cairo                                          x86_64                   1.15.12-3.el7                                   c7-media                   741 k
+ cups-client                                    x86_64                   1:1.6.3-35.el7                                  c7-media                   151 k
+ cups-libs                                      x86_64                   1:1.6.3-35.el7                                  c7-media                   357 k
+ desktop-file-utils                             x86_64                   0.23-1.el7                                      c7-media                    67 k
+ ed                                             x86_64                   1.9-4.el7                                       c7-media                    72 k
+ emacs-filesystem                               noarch                   1:24.3-22.el7                                   c7-media                    58 k
+ foomatic-filters                               x86_64                   4.0.9-8.el7                                     c7-media                    98 k
+ fribidi                                        x86_64                   1.0.2-1.el7                                     c7-media                    79 k
+ gdbm-devel                                     x86_64                   1.10-8.el7                                      c7-media                    47 k
+ gdk-pixbuf2                                    x86_64                   2.36.12-3.el7                                   c7-media                   570 k
+ ghostscript                                    x86_64                   9.07-31.el7                                     c7-media                   4.3 M
+ ghostscript-fonts                              noarch                   5.50-32.el7                                     c7-media                   324 k
+ graphite2                                      x86_64                   1.3.10-1.el7_3                                  c7-media                   115 k
+ gtk-update-icon-cache                          x86_64                   3.22.30-3.el7                                   c7-media                    28 k
+ gtk2                                           x86_64                   2.24.31-1.el7                                   c7-media                   3.4 M
+ harfbuzz                                       x86_64                   1.7.5-2.el7                                     c7-media                   267 k
+ hicolor-icon-theme                             noarch                   0.12-7.el7                                      c7-media                    42 k
+ jasper-libs                                    x86_64                   1.900.1-33.el7                                  c7-media                   150 k
+ jbigkit-libs                                   x86_64                   2.0-11.el7                                      c7-media                    46 k
+ lcms2                                          x86_64                   2.6-3.el7                                       c7-media                   150 k
+ libXcomposite                                  x86_64                   0.4.4-4.1.el7                                   c7-media                    22 k
+ libdb-devel                                    x86_64                   5.3.21-24.el7                                   c7-media                    38 k
+ libglvnd-egl                                   x86_64                   1:1.0.1-0.8.git5baa1e5.el7                      c7-media                    44 k
+ libjpeg-turbo                                  x86_64                   1.2.90-6.el7                                    c7-media                   134 k
+ libmng                                         x86_64                   1.0.10-14.el7                                   c7-media                   171 k
+ libpng12                                       x86_64                   1.2.50-10.el7                                   c7-media                   171 k
+ libthai                                        x86_64                   0.1.14-9.el7                                    c7-media                   187 k
+ libtiff                                        x86_64                   4.0.3-27.el7_3                                  c7-media                   170 k
+ libwayland-client                              x86_64                   1.15.0-1.el7                                    c7-media                    33 k
+ m4                                             x86_64                   1.4.16-10.el7                                   c7-media                   256 k
+ mailcap                                        noarch                   2.1.41-2.el7                                    c7-media                    31 k
+ mailx                                          x86_64                   12.5-19.el7                                     c7-media                   245 k
+ mesa-libEGL                                    x86_64                   18.0.5-3.el7                                    c7-media                   101 k
+ mesa-libGLU                                    x86_64                   9.0.0-4.el7                                     c7-media                   196 k
+ pango                                          x86_64                   1.42.4-1.el7                                    c7-media                   280 k
+ patch                                          x86_64                   2.7.1-10.el7_5                                  c7-media                   110 k
+ perl-B-Lint                                    noarch                   1.17-3.el7                                      c7-media                    20 k
+ perl-Business-ISBN                             noarch                   2.06-2.el7                                      c7-media                    25 k
+ perl-Business-ISBN-Data                        noarch                   20120719.001-2.el7                              c7-media                    24 k
+ perl-CGI                                       noarch                   3.63-4.el7                                      c7-media                   250 k
+ perl-CPAN                                      noarch                   1.9800-293.el7                                  c7-media                   293 k
+ perl-Class-ISA                                 noarch                   0.36-1010.el7                                   c7-media                   8.9 k
+ perl-Compress-Raw-Bzip2                        x86_64                   2.061-3.el7                                     c7-media                    32 k
+ perl-Compress-Raw-Zlib                         x86_64                   1:2.061-4.el7                                   c7-media                    57 k
+ perl-Data-Dumper                               x86_64                   2.145-3.el7                                     c7-media                    47 k
+ perl-Digest                                    noarch                   1.17-245.el7                                    c7-media                    23 k
+ perl-Digest-MD5                                x86_64                   2.52-3.el7                                      c7-media                    30 k
+ perl-Digest-SHA                                x86_64                   1:5.85-4.el7                                    c7-media                    58 k
+ perl-Encode-Locale                             noarch                   1.03-5.el7                                      c7-media                    16 k
+ perl-Env                                       noarch                   1.04-2.el7                                      c7-media                    16 k
+ perl-ExtUtils-Install                          noarch                   1.58-293.el7                                    c7-media                    74 k
+ perl-ExtUtils-MakeMaker                        noarch                   6.68-3.el7                                      c7-media                   275 k
+ perl-ExtUtils-Manifest                         noarch                   1.61-244.el7                                    c7-media                    31 k
+ perl-ExtUtils-ParseXS                          noarch                   1:3.18-3.el7                                    c7-media                    77 k
+ perl-FCGI                                      x86_64                   1:0.74-8.el7                                    c7-media                    42 k
+ perl-File-CheckTree                            noarch                   4.42-3.el7                                      c7-media                    18 k
+ perl-File-Listing                              noarch                   6.04-7.el7                                      c7-media                    13 k
+ perl-HTML-Parser                               x86_64                   3.71-4.el7                                      c7-media                   115 k
+ perl-HTML-Tagset                               noarch                   3.20-15.el7                                     c7-media                    18 k
+ perl-HTTP-Cookies                              noarch                   6.01-5.el7                                      c7-media                    26 k
+ perl-HTTP-Daemon                               noarch                   6.01-8.el7                                      c7-media                    21 k
+ perl-HTTP-Date                                 noarch                   6.02-8.el7                                      c7-media                    14 k
+ perl-HTTP-Message                              noarch                   6.06-6.el7                                      c7-media                    82 k
+ perl-HTTP-Negotiate                            noarch                   6.01-5.el7                                      c7-media                    17 k
+ perl-IO-Compress                               noarch                   2.061-2.el7                                     c7-media                   260 k
+ perl-IO-HTML                                   noarch                   1.00-2.el7                                      c7-media                    23 k
+ perl-IO-Socket-IP                              noarch                   0.21-5.el7                                      c7-media                    36 k
+ perl-IO-Socket-SSL                             noarch                   1.94-7.el7                                      c7-media                   115 k
+ perl-LWP-MediaTypes                            noarch                   6.02-2.el7                                      c7-media                    24 k
+ perl-Locale-Codes                              noarch                   3.26-2.el7                                      c7-media                   314 k
+ perl-Locale-Maketext                           noarch                   1.23-3.el7                                      c7-media                    93 k
+ perl-Module-Pluggable                          noarch                   1:4.8-3.el7                                     c7-media                    29 k
+ perl-Mozilla-CA                                noarch                   20130114-5.el7                                  c7-media                    11 k
+ perl-Net-HTTP                                  noarch                   6.06-2.el7                                      c7-media                    29 k
+ perl-Net-LibIDN                                x86_64                   0.12-15.el7                                     c7-media                    28 k
+ perl-Net-SSLeay                                x86_64                   1.55-6.el7                                      c7-media                   285 k
+ perl-Pod-Checker                               noarch                   1.60-2.el7                                      c7-media                    28 k
+ perl-Pod-LaTeX                                 noarch                   0.61-2.el7                                      c7-media                    35 k
+ perl-Pod-Parser                                noarch                   1.61-2.el7                                      c7-media                   107 k
+ perl-Pod-Plainer                               noarch                   1.03-4.el7                                      c7-media                   9.0 k
+ perl-Sys-Syslog                                x86_64                   0.33-3.el7                                      c7-media                    42 k
+ perl-Test-Harness                              noarch                   3.28-3.el7                                      c7-media                   302 k
+ perl-Test-Simple                               noarch                   0.98-243.el7                                    c7-media                   170 k
+ perl-Text-Soundex                              x86_64                   3.04-4.el7                                      c7-media                    19 k
+ perl-Text-Unidecode                            noarch                   0.04-20.el7                                     c7-media                   114 k
+ perl-TimeDate                                  noarch                   1:2.30-2.el7                                    c7-media                    52 k
+ perl-URI                                       noarch                   1.60-9.el7                                      c7-media                   106 k
+ perl-WWW-RobotRules                            noarch                   6.02-5.el7                                      c7-media                    18 k
+ perl-XML-LibXML                                x86_64                   1:2.0018-5.el7                                  c7-media                   373 k
+ perl-XML-NamespaceSupport                      noarch                   1.11-10.el7                                     c7-media                    18 k
+ perl-XML-SAX                                   noarch                   0.99-9.el7                                      c7-media                    63 k
+ perl-XML-SAX-Base                              noarch                   1.08-7.el7                                      c7-media                    32 k
+ perl-autodie                                   noarch                   2.16-2.el7                                      c7-media                    77 k
+ perl-devel                                     x86_64                   4:5.16.3-293.el7                                c7-media                   453 k
+ perl-libwww-perl                               noarch                   6.05-2.el7                                      c7-media                   205 k
+ perl-local-lib                                 noarch                   1.008010-4.el7                                  c7-media                    64 k
+ poppler-data                                   noarch                   0.4.6-3.el7                                     c7-media                   2.2 M
+ psmisc                                         x86_64                   22.20-15.el7                                    c7-media                   141 k
+ pyparsing                                      noarch                   1.5.6-9.el7                                     c7-media                    94 k
+ qt                                             x86_64                   1:4.8.7-2.el7                                   c7-media                   4.6 M
+ qt-settings                                    noarch                   19-23.8.el7.centos                              c7-media                    17 k
+ qt-x11                                         x86_64                   1:4.8.7-2.el7                                   c7-media                    13 M
+ qt3                                            x86_64                   3.3.8b-51.el7                                   c7-media                   3.5 M
+ redhat-lsb-core                                x86_64                   4.1-27.el7.centos.1                             c7-media                    38 k
+ redhat-lsb-cxx                                 x86_64                   4.1-27.el7.centos.1                             c7-media                    16 k
+ redhat-lsb-desktop                             x86_64                   4.1-27.el7.centos.1                             c7-media                    20 k
+ redhat-lsb-languages                           x86_64                   4.1-27.el7.centos.1                             c7-media                    18 k
+ redhat-lsb-printing                            x86_64                   4.1-27.el7.centos.1                             c7-media                    16 k
+ redhat-lsb-submod-multimedia                   x86_64                   4.1-27.el7.centos.1                             c7-media                    15 k
+ redhat-lsb-submod-security                     x86_64                   4.1-27.el7.centos.1                             c7-media                    15 k
+ spax                                           x86_64                   1.5.2-13.el7                                    c7-media                   260 k
+ systemtap-sdt-devel                            x86_64                   3.3-3.el7                                       c7-media                    74 k
+ time                                           x86_64                   1.7-45.el7                                      c7-media                    30 k
+ urw-fonts                                      noarch                   2.4-16.el7                                      c7-media                   3.0 M
+ xdg-utils                                      noarch                   1.1.0-0.17.20120809git.el7                      c7-media                    70 k
+ xorg-x11-font-utils                            x86_64                   1:7.5-21.el7                                    c7-media                   104 k
+
+Transaction Summary
+==========================================================================================================================================================
+Install  1 Package (+120 Dependent packages)
+
+Total download size: 45 M
+Installed size: 140 M
+Is this ok [y/d/N]: y
