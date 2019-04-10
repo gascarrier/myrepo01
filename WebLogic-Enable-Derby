@@ -1,0 +1,16 @@
+1. setDomainEnv.sh里开启
+DERBY_FLAG="true"
+export DERBY_FLAG
+
+2.JDK里开启Socket监听:
+$JAVA_HOME/jre/lib/security/java.policy and make the following changes.
+
+grant{
+     //List of granted permissions
+     permission java.net.SocketPermission "localhost:1527", "listen";
+}
+
+文档 1680917.1
+https://support.oracle.com/epmos/faces/DocumentDisplay?_afrLoop=274903985960489&id=1680917.1&_adf.ctrl-state=1c6sdoucyc_243
+Targetting of wlsbjmsrpDataSource is not properly unset if domain type is OSB. · Issue #380 · biemond/biemond-orawls
+https://github.com/biemond/biemond-orawls/issues/380
